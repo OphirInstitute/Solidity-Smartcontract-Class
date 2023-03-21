@@ -76,7 +76,7 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 </ol>
 </details>
 <details>
-<summary><a href="#Module 4: Advanced-Concepts-in-Token-and-NFT-Creation">Module 4: Advanced Concepts in Token and NFT Creation</a></summary>
+<summary><a href="#Module-4-Advanced-Concepts-in-Token-and-NFT-Creation">Module 4: Advanced Concepts in Token and NFT Creation</a></summary>
 <ol>
 <li><a href="#Adding-additional-features-to-your-token-and-NFT-contracts">Adding additional features to your token and NFT contracts</a></li>
 <li><a href="#Understanding-token-economics-and-designing-incentives">Understanding token economics and designing incentives</a></li>
