@@ -42,7 +42,7 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 </details>
 
 <details>
-<summary> <a href="#Module-1-Introduction-to-Solidity-and-the-Ethereum-Network">Module 1: Introduction to Solidity and the Ethereum Network</a></summary>
+<summary> <a href="#Module-1-Introduction-to-Solidity-and-the-Ethereum-Network"> Module 1: Introduction to Solidity and the Ethereum Network </a> </summary>
 <ol>
   <li>
   <a href="#Overview-of-Solidity-programming-language">Overview of Solidity programming language! </a>
@@ -57,7 +57,7 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
   
 </details>
 <details>
-<summary> <a href="#Module-2-Creating-Your-Own-Token"> Module-2-Creating-Your-Own-Token </a> </summary>
+<summary> <a href="#Module-2-Creating-Your-Own-Token"> Module 2 Creating Your Own Token </a> </summary>
 <ol>
 <li>
 <a href="#Defining a token contract">What is a Blockchain? What does a blockchain do?</a>
