@@ -556,9 +556,9 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 
 8. Tick the ``Auto Increment Ids`` section to set token to mintable
 
-9. Tick the ``Enumerable`` section to set token to
+9. Tick the ``Enumerable`` section to set token to Enumerable
 
-10. Tick the ``URI Storage`` section to set token to
+10. Tick the ``URI Storage`` section to set token to URI Storage
 
 
 <i>Check out this repository for more information</i>
