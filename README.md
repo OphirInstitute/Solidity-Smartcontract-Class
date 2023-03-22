@@ -489,6 +489,7 @@ Enterprise Ethereum Alliance</i>
 
 # Module 2 : Creating your Own Token
 
+
 <i>
 In this section you will learn how to define a token contract
 Add functions for transferring and tracking token balance
@@ -496,8 +497,9 @@ Implementing the ERC-20 standard for interoperability
 Deploy your token contract
 </i>
 
-
+<p>
 [⌨️ (::) Module 2 : No Video Yet ]()
+</p>
 
 
 Here's a step-by-step process for creating, testing, and deploying an ERC-20 token contract using Remix and OpenZeppelin:
