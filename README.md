@@ -497,47 +497,34 @@ Deploy your token contract
 </i>
 
 
-[⌨️ (::) Module 2 : ]()
-
-💻 Code: https://github.com/PatrickAlphaC/storage-factory-fcc
-
-## Introduction
-*[⌨️ (03:06:06) Introduction](https://youtu.be/gyMwXuJrbJQ?t=11166)*
-- [Factory Pattern](https://betterprogramming.pub/learn-solidity-the-factory-pattern-75d11c3e7d29)
-
-## Basic Solidity: Importing Contracts into other Contracts
-*[⌨️ (03:07:29) Importing Contracts into other Contracts](https://youtu.be/gyMwXuJrbJQ?t=11249)*
-- [Composibility](https://chain.link/techtalks/defi-composability)
-- [Solidity new keyword](https://docs.soliditylang.org/en/latest/control-structures.html?highlight=new#creating-contracts-via-new)
-- [Importing Code in solidity](https://solidity-by-example.org/import)
-
-## Basic Solidity: Interacting with other Contracts
-*[⌨️ (03:16:36) Interacting with other contracts](https://youtu.be/gyMwXuJrbJQ?t=11796)*
-- To interact, you always need: ABI + Address
-- [ABI](https://docs.soliditylang.org/en/latest/abi-spec.html?highlight=abi)
-
-## Basic Solidity: Inheritance & Overrides
-*[⌨️ (03:25:23) Inheritance & Overrides](https://youtu.be/gyMwXuJrbJQ?t=12323)*
-- [Inheritance](https://solidity-by-example.org/inheritance) 
-- [Override & Virtual Keyword](https://docs.soliditylang.org/en/latest/contracts.html?highlight=override#function-overriding)
-
-## Lesson 3 Recap
-*[⌨️ (03:30:29) Lesson 3 Recap](https://youtu.be/gyMwXuJrbJQ?t=12629)*
+[⌨️ (::) Module 2 : No Video Yet ]()
 
 
+Here's a step-by-step process for creating, testing, and deploying an ERC-20 token contract using Remix and OpenZeppelin:
+
+1. Open Remix IDE:
+• [Visit the Remix IDE at](https://remix.ethereum.org/)
+
+2. Create the token contract:
+• In the "File Explorer" tab, click the "+" icon to create a new file
+• Name the file "the token of `your choice"
+
+3. [Goto openzeppeling](https://www.openzeppelin.com/)
+
+• Click on the ``GO  TO DOCS`` tab on the CONTRACTS section
+• Click on ``Wizard``
+• On ERC20 TAB Set ``Name`` & ``Symbol``
+• Tick the ``Mintable`` section to set token to mintable
 
 
+<i> These are other versions of creating an ERC20 to click the link and learn more</i>
 
 
+[💻 Code:](https://github.com/Qui-vira/OphirToken1)
 
+[💻 Code:](https://github.com/Qui-vira/OphirToken2)
 
-
-
-
-
-
-
-
+[💻 Code:](https://github.com/Qui-vira/Token-3)
 
 
 
