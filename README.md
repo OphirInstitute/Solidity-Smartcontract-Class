@@ -525,5 +525,32 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 
 [💻 Code](https://github.com/Qui-vira/Token-3)
 
+# Module 3 : Creating Your Own NFT
 
+<i>
+In this section you will learn how to Define an NFT contract
+Add unique identifier, metadata, and ownership information
+Adding functions for transferring and tracking NFT ownership
+Implementing the ERC-721 standard for interoperability
+and deploying your NFT contract
+</i>
+
+Here's a step-by-step process for creating, testing, and deploying an ERC-20 token contract using Remix and OpenZeppelin:
+
+1. Open Remix IDE:
+• [Visit the Remix IDE at](https://remix.ethereum.org/)
+
+2. Create the token contract:
+• In the "File Explorer" tab, click the "+" icon to create a new file
+• Name the file "the token of `your choice"
+
+3. [Goto openzeppeling](https://www.openzeppelin.com/)
+
+• Click on the ``GO  TO DOCS`` tab on the CONTRACTS section
+• Click on ``Wizard``
+• On ERC721 TAB Set ``Name`` & ``Symbol``
+• Tick the ``Mintable`` section to set token to mintable
+
+
+<i> These are other versions of creating an ERC20 to click the link and learn more</i>
 
