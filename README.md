@@ -497,9 +497,9 @@ Implementing the ERC-20 standard for interoperability
 Deploy your token contract
 </i>
 
-<p>
-[⌨️ (::) Module 2 : No Video Yet ]()
-</p>
+
+## [⌨️ (::) Module 2 : No Video Yet ]()
+
 
 
 Here's a step-by-step process for creating, testing, and deploying an ERC-20 token contract using Remix and OpenZeppelin:
