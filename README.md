@@ -561,6 +561,9 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 10. Tick the ``URI Storage`` section to set token to
 
 
+<i>Check out this repository for more information</i>
 
-<i> These are other versions of </i>
+[💻 Code](https://github.com/Qui-vira/Ophir-NFT)
+
+
 
