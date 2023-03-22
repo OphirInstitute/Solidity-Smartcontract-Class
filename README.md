@@ -498,9 +498,6 @@ Deploy your token contract
 </i>
 
 
-## [⌨️ (::) Module 2 : No Video Yet ]()
-
-
 
 Here's a step-by-step process for creating, testing, and deploying an ERC-20 token contract using Remix and OpenZeppelin:
 
@@ -522,11 +519,11 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 <i> These are other versions of creating an ERC20 to click the link and learn more</i>
 
 
-[💻 Code:](https://github.com/Qui-vira/OphirToken1)
+[💻 Code](https://github.com/Qui-vira/OphirToken1)
 
-[💻 Code:](https://github.com/Qui-vira/OphirToken2)
+[💻 Code](https://github.com/Qui-vira/OphirToken2)
 
-[💻 Code:](https://github.com/Qui-vira/Token-3)
+[💻 Code](https://github.com/Qui-vira/Token-3)
 
 
 
