@@ -452,7 +452,7 @@ Used in the government for keeping private data like tax records
 
 ### Decentralized Blockchains-
 
-Decentralized blockchains are a type of distributed ledger technology (DLT) that allows multiple parties to maintain a shared, tamper-proof database without the need for a central authority. Instead, the blockchain uses a network of computers, known as nodes, to verify and record transactions.
+Decentralized blockchains are a type of distributed ledger technology (DLT) that allows multiple parties to maintain a shared, tamper-proof database without the need or a central authority. Instead, the blockchain uses a network of computers, known as nodes, to verify and record transactions.
 
 It is immutable, Transparent and secure.
 
@@ -508,12 +508,12 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 • In the "File Explorer" tab, click the "+" icon to create a new file
 • Name the file "the token of `your choice"
 
-3. [Goto openzeppeling](https://www.openzeppelin.com/)
+3. [Goto openzeppelin](https://www.openzeppelin.com/)
 
-• Click on the ``GO  TO DOCS`` tab on the CONTRACTS section
-• Click on ``Wizard``
-• On ERC20 TAB Set ``Name`` & ``Symbol``
-• Tick the ``Mintable`` section to set token to mintable
+4 Click on the ``GO  TO DOCS`` tab on the CONTRACTS section
+5 Click on ``Wizard``
+6 On ERC20 TAB Set ``Name`` & ``Symbol``
+7 Tick the ``Mintable`` section to set token to mintable
 
 
 <i> These are other versions of creating an ERC20 to click the link and learn more</i>
@@ -546,11 +546,21 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 
 3. [Goto openzeppeling](https://www.openzeppelin.com/)
 
-• Click on the ``GO  TO DOCS`` tab on the CONTRACTS section
-• Click on ``Wizard``
-• On ERC721 TAB Set ``Name`` & ``Symbol``
-• Tick the ``Mintable`` section to set token to mintable
+4. Click on the ``GO  TO DOCS`` tab on the CONTRACTS section
+
+5.   Click on ``Wizard``
+
+6. On ERC721 TAB Set ``Name`` & ``Symbol``
+
+7. Tick the ``Mintable`` section to set token to mintable
+
+8. Tick the ``Auto Increment Ids`` section to set token to mintable
+
+9. Tick the ``Enumerable`` section to set token to
+
+10. Tick the ``URI Storage`` section to set token to
 
 
-<i> These are other versions of creating an ERC20 to click the link and learn more</i>
+
+<i> These are other versions of </i>
 
