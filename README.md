@@ -565,5 +565,13 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 
 [💻 Code](https://github.com/Qui-vira/Ophir-NFT)
 
+## Uploading NFT image to Pinata (Third-Party IPFS Services)
 
+1. Goto Pinata Cloud
+2. Sign Up
+3. Click on add File
+4. Drag and Drop File to the section or sellect a file and choose file from your device
+5. You will see a string like this: ``QmPehA9qAXn5yKZ8Cg2gWVcEWbmLmjaoXXEfTbGLPE4MPw`` it is called "Content Identifier" 
+6. Copy and Paste it in front of the IPFS gateway: https://ipfs.io/ipfs/ Like this: https://ipfs.io/ipfs/QmPehA9qAXn5yKZ8Cg2gWVcEWbmLmjaoXXEfTbGLPE4MPw
+7. Copy and paste the IPFS gateway and CID to the URI section inside the safemint function and input the address to mint
 
