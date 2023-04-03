@@ -6,7 +6,7 @@ Welcome to the repository for the Ophir Solidity-Smartcontract-Class - Beginner 
 Recommended Testnet: Sepolia
 
 
-<i>We have create the repos to work with Sepolia due to Rinkeby and Kovan being sunset, and Goerli being a disaster. Let us know if yo have any issues!</i>
+<i>We have to create the repos to work with Sepolia due to Rinkeby and Kovan being sunset, and Goerli being a disaster. Let us know if yo have any issues!</i>
 
 
 # [Testnet Faucets](https://faucets.chain.link)
