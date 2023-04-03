@@ -544,7 +544,7 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 • In the "File Explorer" tab, click the "+" icon to create a new file
 • Name the file "the token of `your choice"
 
-3. [Goto openzeppeling](https://www.openzeppelin.com/)
+3. [Goto openzeppelin](https://www.openzeppelin.com/)
 
 4. Click on the ``GO  TO DOCS`` tab on the CONTRACTS section
 
