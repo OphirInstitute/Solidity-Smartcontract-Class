@@ -521,9 +521,9 @@ Here's a step-by-step process for creating, testing, and deploying an ERC-20 tok
 
 [💻 Code](https://github.com/Qui-vira/OphirToken1) Set supply with constructor manually before deploying the token 
 
-[💻 Code](https://github.com/Qui-vira/OphirToken2) Set supply after deploying 
+[💻 Code](https://github.com/Qui-vira/OphirToken2) Set supply in the contract 
 
-[💻 Code](https://github.com/Qui-vira/Token-3) Set supply in the contract 
+[💻 Code](https://github.com/Qui-vira/Token-3) Set supply after deploying the contract 
 
 # Module 3 : Creating Your Own NFT
 
