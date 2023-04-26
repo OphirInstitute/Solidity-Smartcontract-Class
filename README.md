@@ -299,19 +299,24 @@ Solidity supports several data types for variables, including:
 ### Mappings:
 
 (Mappings are used to create key-value pairs, similar to dictionaries or hash tables in other languages. They are particularly useful for creating data lookups.)
+   
+   ``//SPDX-License-Identifier: MIT``
 
 ``pragma solidity ^0.8.0;``
 
-``contract ExampleContract {``
-``mapping(address => uint256) myMapping;``
+``contract SimpleMapping {
+    // Declare a mapping that maps an address to a uint
+    mapping(address => uint) public balances;``
 
-``function setValue(uint256 newValue) public {``
-``myMapping[msg.sender] = newValue;``
-``}``
+    // Function to update the balance of a specific address
+    function updateBalance(address _user, uint _amount) public {
+        balances[_user] = _amount;
+   `` }``
 
-``function getValue(address userAddress) public view returns (uint256) {``
-``return myMapping[userAddress];``
-``}``
+    // Function to get the balance of a specific address
+    function getBalance(address _user) public view returns (uint) {
+        return balances[_user];
+  `` }``
 ``}``
 
 <i>In this example, we define a mapping called "myMapping" that maps Ethereum addresses to uint256 values. The "setValue" function allows a value to be added to the mapping for the address of the current user, and the "getValue" function allows the value for a given address to be retrieved from the mapping.</i>
