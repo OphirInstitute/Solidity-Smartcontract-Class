@@ -319,7 +319,7 @@ Solidity supports several data types for variables, including:
   `` }``
 ``}``
 
-<i>In this example, we define a mapping called "myMapping" that maps Ethereum addresses to uint256 values. The "setValue" function allows a value to be added to the mapping for the address of the current user, and the "getValue" function allows the value for a given address to be retrieved from the mapping.</i>
+<i> </i>
 
 ### Strings
 
