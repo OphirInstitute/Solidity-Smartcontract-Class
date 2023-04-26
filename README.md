@@ -317,9 +317,19 @@ Solidity supports several data types for variables, including:
     function getBalance(address _user) public view returns (uint) {
         return balances[_user];
   `` }``
-``}``
+``}`` 
 
-<i> </i>
+
+
+<i> In the example above:
+
+We declare a mapping called ``balances`` that maps an ``address`` to a ``uint`` (unsigned integer). This mapping will store the balances of users identified by their Ethereum addresses.
+
+We create a function ``updateBalance`` that takes an address ``_user`` and a uint ``_amount`` as input. This function updates the balance of the specified address in the ``balances`` mapping.
+
+We create a function ``getBalance that`` takes an address ``_user`` as input and returns the balance associated with that address from the balances mapping.
+
+Keep in mind that mappings in Solidity don't have a length or size property, and you can't iterate over their keys directly. If you need to track the keys used in a mapping or the number of entries, you can use an array or another data structure in combination with the mapping.</i>
 
 ### Strings
 
